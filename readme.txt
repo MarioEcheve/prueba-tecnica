@@ -18,6 +18,3 @@ Respositorios
 links de github de los proyectos
     front: https://github.com/MarioEcheve/encuesta-front.git
     backend: https://github.com/MarioEcheve/encuesta-backend.git
-
-repositorio frontend : 
-repositorio backend : 
